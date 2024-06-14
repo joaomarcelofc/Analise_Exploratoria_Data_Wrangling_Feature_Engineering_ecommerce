@@ -6,7 +6,7 @@
   <img src= "imagens/ecommerce.jpg"width=50% >
 </p>
 
-# Definição do problema e fonte de dados
+## Definição do problema e fonte de dados
 Uma empresa internacional de comércio eletrônico (E-commerce) que vende produtos eletrônicos deseja descobrir informações importantes de seu banco de dados de clientes. 
 Os produtos ficam armazenados em um armazém na sede da empresa. Após concluir a compra no web site da empresa, o cliente recebe o produto em casa, em qualquer parte do 
 mundo. Os produtos são enviados de Navio, Avião ou Caminhão, dependendo da região de 
@@ -18,12 +18,12 @@ problemas e após receber o produto o cliente pode deixar uma avaliação sobre 
 Nosso trabalho neste Estudo de Caso é explorar os dados, compreender como estão organizados, detectar eventuais problemas e analisar os dados por diferentes perspectivas.
 Trabalharemos com dados fictícios que representam dados reais de uma empresa de E-commerce.
 
-# Dicionário de dados
+## Dicionário de dados
 <p align="center">
   <img src= "imagens/dicionario.png"width=50% >
 </p>
 
-# Etapas abordadas no projeto
+## Etapas abordadas no projeto
 Este Estudo de Caso traz uma série de atividades em uma das tarefas mais importantes em Ciência de Dados, a Análise Exploratória.
 
 Na Parte 1 do Estudo de Caso, a Análise Exploratória traz os detalhes técnicos com análise estatística, visualização  de  dados,  interpretação  de  gráficos  e  tabelas,  análise  univariada  e bivariada e relatório de conclusão.
